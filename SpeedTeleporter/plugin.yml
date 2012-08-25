@@ -1,0 +1,8 @@
+name: SpeedTeleporter
+version: 1.0
+main: me.jtjj222.SpeedTeleporter.SpeedTeleporter
+load: POSTWORLD
+commands:
+ SpeedTP:
+  desctiption: Add a location for use with Speed teleport signs
+  permissions: SpeedTeleporter.addLocation
